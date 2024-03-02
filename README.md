@@ -1,5 +1,2 @@
-# sum-huukhoa
-
-Một thư viện giúp bạn tính tổng của 2 số bất kỳ
-
-Đơn giản, dễ dùng, cực kỳ nhẹ
+# sum-ninh
+Một thư viện nhỏ gọn và dễ sử dụng để tính tổng của hai số bất kỳ, hoàn toàn khác với các thư viện khác.
